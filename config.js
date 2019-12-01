@@ -9,7 +9,7 @@ module.exports = {
     name: "JOÂO MENDES",
     bio: "Self-taught web developer and whisky aficionado",
     contacts: {
-      linkedin: "https://www.linkedin.com/in/joaojosemendes/",
+      linkedin: "https://www.linkedin.com/in/joaojosemendes",
      // github: "https://github.com/willjw3",
      // stackoverflow:
      //   "https://stackoverflow.com/users/10262432/will-ward?tab=profile",
