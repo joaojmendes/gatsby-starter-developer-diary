@@ -10,10 +10,7 @@ module.exports = {
     bio: "Self-taught web developer and whisky aficionado",
     contacts: {
       linkedin: "https://www.linkedin.com/in/joaojosemendes",
-     // github: "https://github.com/willjw3",
-     // stackoverflow:
-     //   "https://stackoverflow.com/users/10262432/will-ward?tab=profile",
-     // freecodecamp: "https://www.freecodecamp.org/willjw3",
+      github: "https://github.com/joaojmendes",
       twitter: "https://twitter.com/joaojmendes",
     },
   },
